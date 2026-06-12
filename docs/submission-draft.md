@@ -39,12 +39,12 @@ The project is scoped as AI DevTools rather than an autonomous trading bot. It h
 
 - Mantle Sepolia deployment, blocked until the deploy wallet receives testnet MNT
 - demo record transaction, blocked until deployment
-- hosted frontend URL, to be added after repo publish/deploy
+- hosted frontend URL is live on GitHub Pages
 
 ## Links To Fill
 
-- GitHub:
-- Live demo:
+- GitHub: https://github.com/cecon123/clawlens-mantle-devtool
+- Live demo: https://cecon123.github.io/clawlens-mantle-devtool/
 - Demo video:
 - Contract explorer:
 - Demo audit transaction:

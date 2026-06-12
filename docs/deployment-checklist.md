@@ -5,7 +5,7 @@ Use this checklist before submitting ClawLens to DoraHacks.
 ## Required Proof
 
 - GitHub repo is public.
-- Frontend is publicly accessible.
+- Frontend is publicly accessible at `https://cecon123.github.io/clawlens-mantle-devtool/`.
 - Demo video is at least 2 minutes.
 - `npm test` passes.
 - `npm run build` passes.

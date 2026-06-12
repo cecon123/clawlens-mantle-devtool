@@ -4,6 +4,10 @@ ClawLens is an AI DevTools audit console for Byreal and RealClaw-style DeFi agen
 
 Hackathon target: The Turing Test Hackathon 2026, AI DevTools track.
 
+Live demo: https://cecon123.github.io/clawlens-mantle-devtool/
+
+Repository: https://github.com/cecon123/clawlens-mantle-devtool
+
 ## Why It Exists
 
 Autonomous DeFi agents can quote, route, copy-farm, or rebalance faster than a user can review every step. ClawLens adds a pre-execution review layer:
@@ -19,6 +23,7 @@ This is intentionally not another trading bot. It is a judge-verifiable transpar
 ## Current Status
 
 - Frontend dashboard: complete
+- Public frontend: live on GitHub Pages
 - Deterministic audit packet engine: complete
 - Sample packet: complete
 - Solidity registry contract: complete
