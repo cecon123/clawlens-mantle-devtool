@@ -8,6 +8,8 @@ Live demo: https://cecon123.github.io/clawlens-mantle-devtool/
 
 Repository: https://github.com/cecon123/clawlens-mantle-devtool
 
+Demo video: https://github.com/cecon123/clawlens-mantle-devtool/blob/main/docs/demo.webm
+
 ## Why It Exists
 
 Autonomous DeFi agents can quote, route, copy-farm, or rebalance faster than a user can review every step. ClawLens adds a pre-execution review layer:
@@ -24,6 +26,7 @@ This is intentionally not another trading bot. It is a judge-verifiable transpar
 
 - Frontend dashboard: complete
 - Public frontend: live on GitHub Pages
+- Demo video: complete, 155 seconds
 - Deterministic audit packet engine: complete
 - Sample packet: complete
 - Solidity registry contract: complete

@@ -45,7 +45,7 @@ The project is scoped as AI DevTools rather than an autonomous trading bot. It h
 
 - GitHub: https://github.com/cecon123/clawlens-mantle-devtool
 - Live demo: https://cecon123.github.io/clawlens-mantle-devtool/
-- Demo video:
+- Demo video: https://github.com/cecon123/clawlens-mantle-devtool/blob/main/docs/demo.webm
 - Contract explorer:
 - Demo audit transaction:
 
