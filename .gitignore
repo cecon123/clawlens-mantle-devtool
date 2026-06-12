@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+.local
+*.log
+*.local
+
+# Demo artifacts generated locally
+output
+

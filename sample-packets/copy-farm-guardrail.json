@@ -1,0 +1,23 @@
+{
+  "agentLabel": "Copy-farm guardrail bot",
+  "autonomousActions": [
+    "inspect top farmer profile",
+    "simulate copied range",
+    "block action if drawdown threshold is exceeded"
+  ],
+  "capability": "copyFarming",
+  "controls": [
+    "Human approval before capital movement",
+    "Multiple external signals available for cross-checking"
+  ],
+  "flags": [
+    "Token exposure above 500 USD",
+    "Slippage allowance should be reviewed",
+    "Multi-step autonomy requires monitoring"
+  ],
+  "objective": "Copy a public farmer strategy only when risk constraints match the user policy.",
+  "riskScore": 60,
+  "schema": "clawlens.audit.v1",
+  "source": "Byreal Agent Skills",
+  "packetHash": "0x4d46fe14eb44e6e82388fae4cf4804ab86d80ed74042a210cba9c91bf7b88ded"
+}
